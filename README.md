@@ -1,12 +1,4 @@
 # Demo
 
-some Description 
-
-
-
-
-
-
-
-
+Calculator Application using React JS 
 
